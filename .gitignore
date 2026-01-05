@@ -1,4 +1,3 @@
-**/Output/
-**/Debug?
-*.emSession
-*.jlink
+.quarto/
+_site/
+/.quarto/
