@@ -1,0 +1,26 @@
+---
+title: "Caiya's Portfolio"
+image: images/headshot.png
+about:
+    template: jolla
+    links:
+        - icon: envelope
+          text: Email
+          href: "mailto:caiyacoggshall@gmail.com"
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/caiyacoggshall/
+        - icon: github
+          text: Github
+          href: https://github.com/caiyacoggshall7
+
+---
+
+
+Caiya Coggshall is a senior at Harvey Mudd College finishing a Bachelor of Science in General Engineering with a focus in mechanical and manufacturing. Her academic background spans mechanical design, microprocessor systems, systems engineering, and electrical & magnetic circuits providing a strong foundation in both analytical and hands-on problem solving.
+
+Currently she's the team lead for a project at Chinabridge Medical (CBM) Lifemotion that involves the design, manufacturing, and testing of a medical device to support Extracorpoeal Membrane Oxygenation (ECMO) cannulation. On campus, she serves as a machine shop proctor, training students in milling, lathe operation, and various other tooling machines. Lastly, she leads as the external operations coordinator of the tours program at Harvey Mudd College.
+
+​Some of her past experience involves fabricating and testing fixtures to support the development of a Class III medical device as a manufacturing engineering intern at E2 - Endovascular Engineering. She’s alsp prototyped a fully mechanical autoinjector for hormonal acne treatment through Indomo. In research, she managed a cell culture facility and contributed to experimental systems for cancer and nanoparticle drug delivery. 
+
+She’s drawn to projects that build real, physical systems and approach every problem with curiosity, attention to detail, and a drive to make things that actually work.
