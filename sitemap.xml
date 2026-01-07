@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/s.html</loc>
+    <lastmod>2026-01-05T23:39:23.920Z</lastmod>
+  </url>
+  <url>
     <loc>https://caiyacoggshall7.github.io/professional-portfolio/index.html</loc>
     <lastmod>2026-01-06T00:23:25.561Z</lastmod>
   </url>
   <url>
-    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/software/s.html</loc>
-    <lastmod>2026-01-05T23:39:23.920Z</lastmod>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/mechanical_manufacturing/guillotine.html</loc>
+    <lastmod>2026-01-07T22:34:28.921Z</lastmod>
   </url>
   <url>
-    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/electrical_hardware/e_h.html</loc>
-    <lastmod>2026-01-05T23:39:23.920Z</lastmod>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/mechanical_manufacturing/yingyang.html</loc>
+    <lastmod>2026-01-07T22:48:50.075Z</lastmod>
   </url>
   <url>
     <loc>https://caiyacoggshall7.github.io/professional-portfolio/resume.html</loc>
     <lastmod>2026-01-05T23:39:23.920Z</lastmod>
   </url>
   <url>
-    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/other/other.html</loc>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/biomedical.html</loc>
     <lastmod>2026-01-05T23:39:23.920Z</lastmod>
   </url>
   <url>
-    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/mechanical_manufacturing/m_m.html</loc>
-    <lastmod>2026-01-06T00:50:21.271Z</lastmod>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/projects/mechanical_manufacturing/hammer.html</loc>
+    <lastmod>2026-01-07T23:02:33.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/m_m.html</loc>
+    <lastmod>2026-01-07T23:07:49.900Z</lastmod>
+  </url>
+  <url>
+    <loc>https://caiyacoggshall7.github.io/professional-portfolio/e_h.html</loc>
+    <lastmod>2026-01-05T23:39:23.920Z</lastmod>
   </url>
 </urlset>

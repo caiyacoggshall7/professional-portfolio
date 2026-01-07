@@ -1,1 +1,8 @@
 /* css styles */
+.grid-image {
+  width: 250px;          /* fixed width */
+  height: 250px;         /* fixed height */
+  object-fit: cover;     /* crop the image to fill box without stretching */
+  object-position: center; /* crop from the center */
+  display: block;        /* remove inline spacing */
+}
