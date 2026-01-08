@@ -7,6 +7,48 @@
     "text": "Caiya Coggshall is a senior at Harvey Mudd College finishing a Bachelor of Science in General Engineering with a focus in mechanical and manufacturing. Her academic background spans mechanical design, microprocessor systems, systems engineering, and electrical & magnetic circuits providing a strong foundation in both analytical and hands-on problem solving.\nCurrently she’s the team lead for a project at Chinabridge Medical (CBM) Lifemotion that involves the design, manufacturing, and testing of a medical device to support cannulation for Extracorpoeal Membrane Oxygenation (ECMO). On campus, she serves as a machine shop proctor, training students in milling, lathe operation, and various other tooling machines. Lastly, she leads as the external operations coordinator of the tours program at Harvey Mudd College.\n​Some of her past experience involves fabricating and testing fixtures to support the development of a Class III medical device as a manufacturing engineering intern at E2 - Endovascular Engineering. She’s alsp prototyped a fully mechanical autoinjector for hormonal acne treatment through Indomo. In research, she managed a cell culture facility and contributed to experimental systems for cancer and nanoparticle drug delivery.\nShe’s drawn to projects that build real, physical systems and approach every problem with curiosity, attention to detail, and a drive to make things that actually work."
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF Resume"
+  },
+  {
+    "objectID": "resume.html#projects-experience",
+    "href": "resume.html#projects-experience",
+    "title": "Resume",
+    "section": "Projects & Experience",
+    "text": "Projects & Experience\n\nCBM Lifemotion\nSpring Team Lead\nAugust 2025 - Current | Claremont, CA\nDesigning an automatic cannulation device to provide access to Extracorporeal Membrane Oxygenation (ECMO) outside of a hospital. End-to-end design and rapid iteration of an electromechanical prototype for enhancing cannulation efficiency. Future work includes architecting system interfaces for the upcoming computer/electrical proof-of-concept: defined power/signal/data specs, selected sensors/actuators/MCU, and the bring-up & testing plan.\n\n\n\nE2 - Endovascular Engineering\nManufacturing Engineering Intern\nMay 2025 - August 2025 | Menlo Park, CA\nDesigned and fabricated custom test fixtures, including a proof load tester and a 5-part assembly for a shear test study, using SolidWorks, 3D printing, and shop equipment to support validation of a Class III biomedical device. Created detailed SolidWorks models and manufacturing drawings for production tooling, material documentation, and a protective transport case, improving assembly efficiency and enabling safe device demonstration at conferences. Collaborated with R&D and Quality teams to develop test methods, perform V&V testing, and update key documentation (LHRs, MPIs).\n\n\n\nHarvey Mudd College Machine Shop\nMachine Shop Proctor\nAugust 2024 - Current | Claremont, CA\nSupervise and train users in a student-run metal and wood shop, providing hands-on instruction with tools such as metal lathes, mills, vertical bandsaws, table saws, miter saws, planers, and sanders. Advise students on crafting hammers from steel and wood for an engineering design and manufacturing course, emphasizing safe, precise tool usage and fostering confidence in machining skills.\n\n\n\nIndomo Injector\nMechanical Engineering Intern\nAugust 2024 - December 2024 | Rick Bente, Claremont, CA\nCollaborated in a team of six to design and prototype a next-generation reusable intradermal auto-injector targeting hormonal acne. Independently developed a user activation mechanism integrating a safety interlock with a skin sensor for needle deployment. Utilized SolidWorks to 3D model and optimize device subsystems, evaluating design trade-offs against objectives, constraints, and functional requirements.\n\n\n\nSantana Lab at Harvey Mudd College\nMicrofluidics and Biomaterials Student Researcher\nAugust 2023 - December 2024 | Steven Santana, Claremont, CA\nManaged a dynamic cell culture facility, overseeing the growth and maintenance of over 70 cell culture flasks. Designed and standardized SOPs for critical lab equipment like the Nanosight NS300, improving precision in nanoparticle characterization. Collaborated with a team of five researchers to integrate engineering solutions into drug delivery projects and tracked procedures for miRNA isolation. Presented findings at BMES 2024 and Harvey Mudd College summer research poster session. Contributed creatively by designing lab logos and names.\n\n\n\nHarvey Mudd Admissions Office\nExternal Operations Coordinator / Tour Guide Leadership\nFebruary 2023 - Current | Claremont, CA\nCoordinated group tours, managed external communication with academic departments, and led weekly campus tours for up to 40 prospective students and parents. Organized events and training sessions for new tour guides, providing guidance on effectively showcasing campus life and academics. Managed special requests and strengthened partnerships with guests and community organizations."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nHarvey Mudd College\nBachelor of Science in Engineering\nExpected 2026 | Claremont, CA\nPursuing undergraduate studies with a focus on mechanical, electrical, and biomedical engineering.\nCoursework includes: Design and Manufacturing Engineering, Continuum Mechanics, Experimental Engineering, Electrical and Magnetic Circuits/Devices, Advanced Systems Engineering, Digital Electrical & Computer Engineering, Intro to Biomedical Engineering, Materials Engineering, Applied Math for Engineering, Linear Algebra, Physics Mechanics, Microprocessor Systems & Applications, Mechanical Design, Manufacturing Planning & Execution, Chemical & Thermal Processes.\n\n\n\nProof School\nHigh School Diploma\n2018 - 2022 | San Francisco, CA\nCompleted coursework in Computational Modeling, Linear Algebra, Discrete Math, Physics (Mechanics & Electromagnetism), Applied Biotechnology, Group Theory, Graph Theory, Number Theory, and Calculus."
+  },
+  {
+    "objectID": "resume.html#professional-skillset",
+    "href": "resume.html#professional-skillset",
+    "title": "Resume",
+    "section": "Professional Skillset",
+    "text": "Professional Skillset\n\nMechanical System Design\n\nStrategic Problem Solving\n\nTeam Training and Oversight\n\nTeam Leadership\n\nProject Management\n\nTechnical Documentation\n\nAdvanced Research Methods\n\nPublic Speaking\n\nEvent Coordination"
+  },
+  {
+    "objectID": "resume.html#coding-and-simulation-skills",
+    "href": "resume.html#coding-and-simulation-skills",
+    "title": "Resume",
+    "section": "Coding and Simulation Skills",
+    "text": "Coding and Simulation Skills\n\n3D CAD SolidWorks\n\nMATLAB\n\n3D Printing"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish\n\nMandarin"
+  },
+  {
     "objectID": "m_m.html",
     "href": "m_m.html",
     "title": "Mechanical and Manufacturing Projects",
