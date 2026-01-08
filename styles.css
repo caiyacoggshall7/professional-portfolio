@@ -37,3 +37,6 @@
   font-weight: bold;
   font-size: 1em;
 }
+
+h1 { font-weight: bold; font-size: 24pt; } /* Bold large font */
+strong, b { font-weight: bold; } /* Ensure bold is bold */
