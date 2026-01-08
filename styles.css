@@ -6,3 +6,34 @@
   object-position: center; /* crop from the center */
   display: block;        /* remove inline spacing */
 }
+
+
+.project-grid {
+  column-count: 3;          /* number of columns */
+  column-gap: 20px;         /* gap between columns */
+}
+
+.project-card {
+  display: inline-block;    /* important for masonry column layout */
+  width: 100%;              /* fills column width */
+  margin-bottom: 20px;      /* vertical spacing */
+  text-align: center;       /* centers the title horizontally */
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;             /* natural height, keeps aspect ratio */
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 10px;      /* space between image and title */
+}
+
+.project-card-title {
+  display: flex;
+  justify-content: center;  /* horizontal centering */
+  align-items: center;      /* vertical centering */
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em;
+}
