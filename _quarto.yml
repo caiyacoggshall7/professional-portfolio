@@ -1,13 +1,23 @@
 project:
   type: website
+  resources: /assets 
 
 website:
-  title: "Caiya Coggshall Professional Portfolio"
+  title: "Caiya Coggshall's Portfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About Me
+      - href: resume.qmd
+        text: Resume
+      - text: All Projects  
+        menu:
+          - href: m_m.qmd
+            text: Mechanical and Manufacturing
+          - href: e_h.qmd
+            text: Electrical and Hardware
+          - href: s.qmd
+            text: Software
 
 format:
   html:

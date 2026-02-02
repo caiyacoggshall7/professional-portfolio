@@ -1,0 +1,52 @@
+---
+title: "Electrical and Hardware Projects"
+page-layout: full
+---
+
+This page contains various projects that I've done from either on my own or from my classes: Microprocessor Systems: Design and Application, Experimental Engineering,and Electrical & Magnetic Circuits. These classes, respectively, led me to make projects like a Toothless Animatronic, an underwater robot equipped with sensors, and an Electrocardiogram (ECG).
+
+**Click on the images for more details! [Some links in progress]**
+
+
+<div class="project-grid">
+
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/dragon.jpeg)](https://erinlywang.github.io/toothless-candy-bucket/)
+
+**Animatronic Toothless Candy Bucket**   
+</div>
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/fulladder.png)](projects/electrical_hardware/images/fulladder.qmd)
+
+**Full Adder Logic Circuit**   
+</div>
+
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/ecg.png)](projects/electrical_hardware/images/ecg.qmd)
+
+**Electrocardiogram (ECG) Circuit**   
+</div>
+
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/digitaldisplay.png)](https://caiyacoggshall7.github.io/e155-portfolio/labs/lab3/lab3.html)
+
+**Multiplexed 7-Segment Display**   
+</div>
+
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/e80robot.jpg)](https://drive.google.com/file/d/1yyXz-tkfSQNIabe5_Yud7CiChaBzmdRw/view?usp=sharing)
+
+**Underwater Robot Project**   
+</div>
+
+
+<div class="project-card">
+[![](projects/electrical_hardware/images/e85music.png)](projects/electrical_hardware/images/musickey.qmd)
+
+**Frequency Design of a Music Keyboard**   
+</div>

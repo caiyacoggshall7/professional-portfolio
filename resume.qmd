@@ -1,0 +1,253 @@
+---
+title: "Resume"
+page-layout: full
+format:
+  html:
+    css: styles.css
+---
+
+<a href="assets/Caiya_Coggshall_Resume.pdf" download class="resume-download">
+  Download Resume (PDF)
+</a>
+
+<div class="section-divider"></div>
+
+
+
+::: {.resume-layout}
+
+::: {.resume-sidebar}
+
+## Education
+
+### Harvey Mudd College
+**B.S. Engineering (Expected May 2026)**  
+Claremont, CA
+
+Relevant Coursework:
+<ul class="two-column-list">
+  <li>Design & Manufacturing Engineering</li>
+  <li>Continuum Mechanics</li>
+  <li>Experimental Engineering</li>
+  <li>Electrical & Magnetic Circuits</li>
+  <li>Advanced Systems Engineering</li>
+  <li>Materials Engineering</li>
+  <li>Linear Algebra</li>
+  <li>Microprocessor Systems</li>
+</ul>
+
+
+
+### Proof School
+**High School Diploma (2018 – 2022)**  
+San Francisco, CA
+
+Relevant Coursework: 
+<ul class="two-column-list">
+    <li>Computational Modeling</li> 
+    <li>Linear Algebra</li>
+    <li>Discrete Math</li> 
+    <li>Physics (Mechanics & E&M)</li>
+    <li>Applied Biotechnology</li> 
+    <li>Group Theory</li>
+    <li>Graph Theory</li>
+    <li>Number Theory</li>
+    <li>Calculus</li>
+</ul>
+
+
+---
+
+## Coding & Simulation
+
+<ul class="tag-list">
+  <li>SolidWorks (3D CAD)</li>
+  <li>MATLAB</li>
+  <li>C</li>
+  <li>System Verilog</li>
+  <li>Python</li>
+  <li>3D Printing</li>
+</ul>
+
+---
+
+## Languages
+
+<ul class="tag-list">
+  <li>English</li>
+  <li>Mandarin</li>
+</ul>
+
+:::
+
+::: {.resume-main}
+
+## Professional Experience
+
+<div class="tag-legend">
+  <div class="tag-legend-title">Skills Color Legend</div>
+  <ul class="tag-list">
+    <li class="tag--proto">Prototyping</li>
+    <li class="tag--mfg">Manufacturing</li>
+    <li class="tag--test">Testing &amp; Validation</li>
+    <li class="tag--code">Coding &amp; Controls</li>
+    <li class="tag--cad">CAD &amp; Documentation</li>
+    <li class="tag--lab">Research &amp; Lab</li>
+    <li class="tag--lead">Leadership &amp; Ops</li>
+  </ul>
+</div>
+
+### CBM Lifemotion
+
+<ul class="tag-list">
+  <li class="tag--proto">Electromechanical Prototyping</li>
+  <li class="tag--cad">3D Computer-Aided Design (CAD)</li>
+  <li class="tag--code">C for Linear Actuators</li>
+  <li class="tag--test">Verification & Validation (V&amp;V)</li>
+  <li class="tag--lead">Technical Team Leadership</li>
+</ul>
+
+
+
+**Spring Team Lead**  
+*Aug 2025 – Current | Claremont, CA*  
+
+<ul class="experience-points">
+  <li>Led end-to-end design and rapid iteration of an electromechanical prototype for an automatic ECMO cannulation device intended for use outside hospital settings</li>
+  <li>Developed and refined mechanical subsystems to improve cannulation efficiency, reliability, and usability</li>
+  <li>Defined system-level power, signal, and data interfaces for upcoming computer/electrical proof-of-concept</li>
+  <li>Selected sensors, actuators, and MCU architecture and authored bring-up and validation test plans</li>
+  <li>Coordinated across mechanical, electrical, and software domains to align design decisions with clinical and manufacturing constraints</li>
+</ul>
+
+
+
+---
+
+### E2 – Endovascular Engineering
+
+<ul class="tag-list">
+  <li class="tag--mfg">Manufacturing Fixture Design</li>
+  <li class="tag--cad">3D Computer-Aided Design (CAD)</li>
+  <li class="tag--proto">Rapid Prototyping</li>
+  <li class="tag--test">Verification & Validation (V&amp;V)</li>
+  <li class="tag--cad">MPI/LHR Documentation</li>
+</ul>
+
+
+**Manufacturing Engineering Intern**  
+*May 2025 – Aug 2025 | Menlo Park, CA*  
+
+<ul class="experience-points">
+  <li>Designed and fabricated custom mechanical test fixtures, including a proof load tester and a 5-part shear-test assembly, to support validation of a Class III biomedical device</li>
+  <li>Used SolidWorks, 3D printing, and shop equipment to rapidly prototype and iterate on test hardware</li>
+  <li>Produced detailed CAD models and manufacturing drawings for production tooling, material documentation, and a protective transport case</li>
+  <li>Improved assembly efficiency and enabled safe device transport and demonstration at external conferences</li>
+  <li>Collaborated closely with R&amp;D and Quality teams to develop test methods, perform V&amp;V testing, and update controlled documentation (LHRs, MPIs)</li>
+</ul>
+
+
+---
+
+### Harvey Mudd College Machine Shop
+
+<ul class="tag-list">
+  <li class="tag--mfg">Manual Milling</li>
+  <li class="tag--mfg">Lathe</li>
+  <li class="tag--mfg">CNC Programming</li>
+  <li class="tag--mfg">Wooden Tools</li>
+  <li class="tag--lead">Technical Instruction & Training</li>
+</ul>
+
+
+**Machine Shop Proctor**  
+*Aug 2024 – Current | Claremont, CA*  
+
+<ul class="experience-points">
+  <li>Supervised and trained students in a student-run metal and wood shop, emphasizing safe, precise, and confident tool use</li>
+  <li>Provided hands-on instruction with equipment including metal lathes, mills, vertical bandsaws, table saws, miter saws, planers, and sanders</li>
+  <li>Advised students in an engineering design and manufacturing course on fabricating steel-and-wood hammers</li>
+  <li>Supported students through design planning, machining workflows, and troubleshooting during fabrication</li>
+  <li>Helped foster a culture of safety, craftsmanship, and peer learning within the shop environment</li>
+</ul>
+
+
+---
+
+### Indomo Injector
+
+<ul class="tag-list">
+  <li class="tag--cad">3D Computer-Aided Design (CAD)</li>
+  <li class="tag--proto">Mechanism Design</li>
+  <li class="tag--proto">Rapid Prototyping</li>
+  <li class="tag--test">Design Verification Testing</li>
+  <li class="tag--mfg">Design for Manufacturability (DFM)</li>
+</ul>
+
+
+**Mechanical Engineering Intern**  
+*Aug 2024 – Dec 2024 | Rick Bente, Claremont, CA*  
+
+<ul class="experience-points">
+  <li>Collaborated in a six-person clinic team to design and prototype a next-generation reusable intradermal auto-injector for hormonal acne treatment</li>
+  <li>Independently designed a user activation mechanism integrating a safety interlock with a skin sensor to enable controlled needle deployment</li>
+  <li>Developed and refined mechanical subsystems using SolidWorks, evaluating trade-offs against functional requirements and constraints</li>
+  <li>Contributed to system-level design discussions spanning usability, manufacturability, and reliability</li>
+  <li>Supported iterative prototyping and testing to validate design concepts</li>
+</ul>
+
+
+---
+
+### CuTE Lab at Harvey Mudd College
+
+<ul class="tag-list">
+  <li class="tag--lab">Cell Culture</li>
+  <li class="tag--lab">Nanoparticle Characterization</li>
+  <li class="tag--test">Experimental Data Analysis</li>
+  <li class="tag--cad">Standard Operating Procedures (SOPs)</li>
+  <li class="tag--lead">Scientific Presentations</li>
+</ul>
+
+
+**Microfluidics and Biomaterials Student Researcher**  
+*Aug 2023 – Dec 2024 | Steven Santana, Claremont, CA*  
+
+<ul class="experience-points">
+  <li>Managed a dynamic cell culture facility, maintaining over 70 cell culture flasks through weekly feeding, confluency monitoring, and splitting procedures</li>
+  <li>Designed, standardized, and documented SOPs for critical lab equipment, including the Nanosight NS300, improving precision and reproducibility</li>
+  <li>Collaborated with a multidisciplinary team of five researchers to integrate engineering approaches into drug delivery projects</li>
+  <li>Tracked and supported experimental workflows for miRNA isolation, nanoparticle characterization, and biomaterials research</li>
+  <li>Presented research findings at BMES 2024 and Harvey Mudd College’s summer research poster session</li>
+  <li>Developed hands-on expertise in NTA, NGS, western blotting, cancer cell maintenance, and hydrogel development</li>
+  <li>Contributed creatively by designing lab logos and naming conventions to support lab identity and outreach</li>
+</ul>
+
+
+---
+
+### Harvey Mudd Admissions Office
+
+<ul class="tag-list">
+  <li class="tag--lead">Program Coordination</li>
+  <li class="tag--lead">Public Speaking</li>
+  <li class="tag--lead">Training & Onboarding</li>
+  <li class="tag--lead">Event Operations</li>
+</ul>
+
+
+**External Operations Coordinator / Tour Guide Leadership**  
+*Feb 2023 – Current | Claremont, CA*  
+
+<ul class="experience-points">
+  <li>Coordinated all group tours at Harvey Mudd College, managing external communication with academic departments and campus partners</li>
+  <li>Led weekly campus tours for up to 40 prospective students and parents, addressing questions about academics, student life, and institutional culture</li>
+  <li>Organized admissions office events and outreach programming to support recruitment efforts</li>
+  <li>Led weekly training sessions for new tour guides, providing guidance on effective storytelling and public engagement</li>
+  <li>Managed special tour requests and strengthened relationships with guests and community organizations</li>
+</ul>
+
+
+:::
+
+:::

@@ -1,0 +1,77 @@
+---
+title: "Mechanical and Manufacturing Projects"
+page-layout: full
+---
+
+This page contains various projects that I've used mechanics principals to design and heavy machinery to make. Many of these are personal projects and is there area of engineering that I've fell in love with the most.
+
+
+**Click on the images for more details! [Some links in progress]**
+
+<div class="project-grid">
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/guillotine.jpeg)](projects/mechanical_manufacturing/guillotine.qmd)
+
+**6 Foot Functional Guillotine**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/yingyangboard.png)](projects/mechanical_manufacturing/yingyang.qmd)
+
+**Ying and Yang Cutting Board**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/hammer.png)](projects/mechanical_manufacturing/hammer.qmd)
+
+**Steel and Wood Hammer**   
+</div>
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/pen1.png)](projects/mechanical_manufacturing/pen.qmd)
+
+**Wooden Lathe Spun Pen**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/knife.png)](projects/mechanical_manufacturing/knife.qmd)
+
+**Engraved Knife Spreader**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/miniguillo.png)](projects/mechanical_manufacturing/miniguillo.qmd)
+
+**Guillotine Earing Holder**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/hathold.png)](projects/mechanical_manufacturing/hathold.qmd)
+
+**Hat Rack**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/e4table.png)](https://drive.google.com/drive/folders/1uIwSXZ_zpuunqgCNynJ1Fgh5VWGqUq7w?usp=sharing)
+
+**Portable Outdoor Table**   
+</div>
+
+
+<div class="project-card">
+[![](projects/mechanical_manufacturing/images/spreaders.png)](projects/mechanical_manufacturing/spreaders.qmd)
+
+**Various Spreaders**   
+</div>
+
+
+
+
