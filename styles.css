@@ -244,3 +244,39 @@ strong, b { font-weight: bold; } /* Ensure bold is bold */
   opacity: 0.9;
 }
 
+.resume-buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.resume-button {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.resume-download {
+  background-color: #2f6f9f;
+}
+
+.resume-download:hover {
+  background-color: #245779;
+  color: white;
+  transform: translateY(-1px);
+}
+
+.transcript-download {
+  background-color: #8b5e3c;
+}
+
+.transcript-download:hover {
+  background-color: #6d492f;
+  color: white;
+  transform: translateY(-1px);
+}
